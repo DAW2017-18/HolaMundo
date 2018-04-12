@@ -17,6 +17,10 @@ public class HolaMundo {
         // TODO code application logic here
         System.out.println("Hola, mundo");
         System.out.println(".............");
+        
+        /**Cambio provisional*/
+        System.out.println("Hola, món");
+        System.out.println(".............");
     }
     
 }
