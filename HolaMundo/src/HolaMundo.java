@@ -21,6 +21,8 @@ public class HolaMundo {
         /**Cambio provisional*/
         System.out.println("Hola, món");
         System.out.println(".............");
+        /**Cambio realizado por user1*/
+        System.out.println("Esto es todo amigos");
     }
     
 }
