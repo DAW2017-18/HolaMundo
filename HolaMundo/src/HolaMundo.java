@@ -25,6 +25,7 @@ public class HolaMundo {
         System.out.println("Modificado por user2");
         /**Cambio realizado por user1*/
         System.out.println("Esto es todo amigos");
+        System.out.println("Hola juanjo yo" );
     }
     
 }
