@@ -26,6 +26,7 @@ public class HolaMundo {
         /**Cambio realizado por user1*/
         System.out.println("Esto es todo amigos");
         System.out.println("Hola juanjo yo" );
+        System.out.println("hui pert el madrid");
     }
     
 }
