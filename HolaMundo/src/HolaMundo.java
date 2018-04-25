@@ -27,6 +27,7 @@ public class HolaMundo {
         System.out.println("Esto es todo amigos");
         System.out.println("Hola juanjo yo" );
         System.out.println("Hoy no pierde el madrid");
+        System.out.println("hui pert el madrid");
     }
     
 }
